@@ -7,6 +7,7 @@ I made this clone for learning NextJs check out the details.
 * Next JS 
 * Tailwind CSS
 
+> Check out the my [clone]("https://airbnb-clone-2abd.vercel.app/")
 
 ### Check out some screenshots
 ![Screenshot 2022-10-25 at 21 35 35](https://user-images.githubusercontent.com/58904133/197826300-eb07f00d-7219-4e39-8ab9-9802555d761f.png)
